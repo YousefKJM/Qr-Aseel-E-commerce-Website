@@ -1,1 +1,6 @@
-{}
+{
+  "name": "qr-aseel",
+  "require": {
+    "php": "^7.1"
+  }
+}
